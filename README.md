@@ -2,6 +2,9 @@
 license: apache-2.0
 language:
 - en
+metrics:
+- accuracy
+library_name: keras
 ---
 # Stock-X
 
