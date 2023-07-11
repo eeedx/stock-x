@@ -5,6 +5,9 @@ language:
 metrics:
 - accuracy
 library_name: keras
+tags:
+- finance
+- code
 ---
 # Stock-X
 
@@ -12,6 +15,8 @@ library_name: keras
 ![Stars](https://img.shields.io/github/stars/Circle-1/Stock-X)
 ![Release](https://img.shields.io/github/v/release/Circle-1/Stock-X)
 [![Heroku](https://img.shields.io/badge/Heroku-Active-blue?logo=heroku)](https://stock-x-proj.herokuapp.com/)
+
+Related arXiv paper: arxiv.org/abs/2305.14378
 
 This project is all about analysis of Stock Market and providing suggestions to stockholders to invest in right company
 
